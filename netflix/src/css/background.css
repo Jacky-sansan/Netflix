@@ -1,0 +1,18 @@
+#appMountPoint>div .login-wrapper-background {
+    display: none;
+}
+
+@media only screen and (min-width: 740px){
+    #appMountPoint>div .login-wrapper-background {
+        background-size: cover;
+        display: block;
+        height: 100%;
+        width: 100%;
+        min-height: 100%;
+        min-width: 100%;
+        overflow: hidden;
+        position: absolute;
+        z-index: -1;
+    }
+
+}

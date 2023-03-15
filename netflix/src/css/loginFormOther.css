@@ -1,0 +1,32 @@
+.hybrid-login-form .hybrid-login-form-other {
+    flex: 0 0 1;
+}
+
+
+
+.terms-of-use {
+    color: #8c8c8c;
+    font-size: 13px;
+    margin-top: 11px;
+    position: relative;
+    text-align: left;
+}
+
+.login-signup-now {
+    color: #737373;
+}
+
+.hybrid-login-form .login-signup-now a {
+    color: #fff;
+}
+
+.learn-more-button {
+    background-color: transparent;
+    border: none;
+    color: #0071eb;
+    cursor: pointer;
+    display: inline;
+    font-family: inherit;
+    font-size: inherit;
+    padding: 0;
+}

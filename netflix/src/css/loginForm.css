@@ -1,0 +1,46 @@
+@media only screen and (min-width: 740px) {
+
+    .login-body {
+        background-color: transparent;
+        margin: 0 auto -236px;
+        max-width: 450px;
+        min-height: 100vh;
+    }
+
+    .login-body:before {
+        content: "";
+        display: block;
+        height: 91px;
+    }
+
+    .login-body:after {
+        content: "";
+        display: block;
+        height: 236px;
+    }
+
+    .hybrid-login-form.hybrid-login-form-signup {
+        min-height: 660px;
+    }
+
+    .hybrid-login-form {
+        margin-bottom: 90px;
+        min-height: 625px;
+        padding: 60px 68px 40px;
+    }
+
+    .nfHeader.login-header.login-header {
+        background: linear-gradient(180deg,rgba(0,0,0,.5) 0,transparent);
+        border-bottom: transparent;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 100%;
+    }
+
+    h1 {
+        margin-bottom: 20px;
+        font-size: 2.15em;
+        margin: 0 0 0.55em;
+    }
+}
